@@ -1,0 +1,31 @@
+html, body {
+    background-color: #21232A;
+    color: white;
+    font-family: Arial, Helvetica, sans-serif;
+    font-size:  1.3rem;  
+    width: 100%;
+}
+
+*{
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+}
+
+h1,p,h2 {
+    text-align: center;
+    margin-top: 10px;
+    border: 2px transparent;
+    background-color: #1f2026;
+}
+
+button {
+    padding: 15px;
+    font-size: 1.3rem;
+    margin-right: 5px;
+    margin-top: 15px;
+}
+
+article {
+    text-align: center;
+}
